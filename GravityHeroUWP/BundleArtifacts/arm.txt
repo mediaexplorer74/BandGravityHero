@@ -1,0 +1,1 @@
+MainPackage=C:\Users\Admin\source\repos\!MSBand\BandGravityHero\GravityHeroUWP\bin\ARM\Debug\GravityHeroUWP_1.0.0.0_ARM_Debug.appx
