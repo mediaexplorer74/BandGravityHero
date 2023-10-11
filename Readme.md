@@ -3,7 +3,7 @@ My fast and simplest Microsoft's GravityHeroUWP "fork" :)
 
 ## Screenshots
 <table><tr>
-<td> <img src="Images/shot01.png" alt="Mobile" style="width: 250px;"/> </td>
+<td> <img src="Images/shot01.png" alt="Mobile" style="width: 500px;"/> </td>
 </tr></table>
 
 ## My 2 cents
